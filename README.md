@@ -2,4 +2,4 @@
 
 :desktop_computer: *A **Computer Science** student at **SEOULTECH***
 
- :memo: This page prepared for '24 Falls ***Open Source Software*** Class
+:memo: This page is prepared for the ***Open Source Software*** Class
