@@ -9,10 +9,16 @@
 ---
 
 ## 🧰 Tech Stack
-
 **Web (PERN):** PostgreSQL, Express.js, React, Node.js  
 **Languages:** JavaScript/TypeScript, Python, C  
 **Tools:** Git/GitHub, Docker, Linux
+
+---
+
+## 🗣️ Natural Languages
+- English
+- Korean
+- Russian
 
 ---
 
@@ -37,5 +43,5 @@
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/felioncactus
-- LinkedIN: https://www.linkedin.com/in/eduard-han-002413397/
+- GitHub: https://github.com/felioncactus  
+- LinkedIn: https://www.linkedin.com/in/eduard-han-002413397/
