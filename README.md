@@ -1,4 +1,5 @@
 # Khan Eduard 👋
+🔎 Open to internship / junior developer opportunities
 
 🎓 Computer Science student at **SEOULTECH**  
 💻 **PERN Stack Web Developer** (PostgreSQL • Express • React • Node.js)  
@@ -11,7 +12,7 @@
 
 **Web (PERN):** PostgreSQL, Express.js, React, Node.js  
 **Languages:** JavaScript/TypeScript, Python, C  
-**Tools:** Git/GitHub, (add: Docker / Linux / etc. if you use)
+**Tools:** Git/GitHub, Docker, Linux
 
 ---
 
@@ -37,3 +38,4 @@
 
 ## 📫 Contact
 - GitHub: https://github.com/felioncactus
+- LinkedIN: https://www.linkedin.com/in/eduard-han-002413397/
