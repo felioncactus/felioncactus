@@ -25,9 +25,9 @@
 ## 🚀 Projects
 
 ### 🌐 Web
-- **STD Planer** — student planner web project  
+- **PLANЁRKA** — a full-stack student workspace for courses, tasks, calendar planning, notes, friends, and chat. It is built as a PERN-style app with a React/Vite client, an Express API, and PostgreSQL. 
   https://github.com/felioncactus/PLANERKA
-
+  
 ### 🐍 Python
 - **SPEX** — Python project  
   https://github.com/felioncactus/SPEX
