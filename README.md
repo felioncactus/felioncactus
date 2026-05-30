@@ -26,7 +26,7 @@
 
 ### 🌐 Web
 - **STD Planer** — student planner web project  
-  https://github.com/felioncactus/std_planer
+  https://github.com/felioncactus/PLANERKA
 
 ### 🐍 Python
 - **SPEX** — Python project  
