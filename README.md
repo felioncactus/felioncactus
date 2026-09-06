@@ -1,7 +1,7 @@
 # Khan Eduard 👋
 🔎 Open to internship / junior developer opportunities
 
-🎓 Computer Science student at **SEOULTECH**  
+🎓 B.S. in Computer Science, SEOULTECH — August 2026
 💻 **PERN Stack Web Developer** (PostgreSQL • Express • React • Node.js)  
 🐍 Also building with **Python** and **C**  
 📍 Seoul, South Korea
